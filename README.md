@@ -3,7 +3,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=200&size=30&pause=1000&color=9F5DE4DF&background=AAA5FF00&random=false&width=435&lines=I'm+frontend+developer.)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Social Medias</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9658d5&color:FFF)](mailto:marcella05trindade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9658d5&color:FFF)](www.linkedin.com/in/marcella-trindade-9aa653241)
